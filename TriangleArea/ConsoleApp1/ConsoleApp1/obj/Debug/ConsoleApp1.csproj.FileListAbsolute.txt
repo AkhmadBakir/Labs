@@ -1,0 +1,7 @@
+E:\Labs\TriangleArea\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Labs\TriangleArea\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Labs\TriangleArea\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Labs\TriangleArea\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Labs\TriangleArea\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Labs\TriangleArea\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Labs\TriangleArea\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
