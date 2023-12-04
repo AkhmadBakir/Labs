@@ -13,13 +13,6 @@
         treangles[1] = treangle2;
 
         Array.Sort(treangles);
+        Console.Write(treangles.ToString());
     }
-
-
-
-        public override string ToString()
-    {
-        return base.ToString();
-    }
-    //Console.WriteLine(treangle1,treangle1);
 }
