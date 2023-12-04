@@ -1,48 +1,18 @@
-﻿using ConsoleApp1;
-using System.Collections;
-
-class Program
+﻿class Program
 {
     public static void Main()
     {
-        Treangle treangle1 = new Treangle();
-        treangle1.NewTreangle();
-        treangle1.TreangleCheck(treangle1.GetSideA(), treangle1.GetSideB(), treangle1.GetSideC());
+        Treangle treangle1 = new Treangle(1, 1, 1);
+        treangle1.TreangleCheck();
 
-        Treangle treangle2 = new Treangle();
-        treangle2.NewTreangle();
-        treangle1.TreangleCheck(treangle2.GetSideA(), treangle2.GetSideB(), treangle2.GetSideC());
+        Treangle treangle2 = new Treangle(4);
+        treangle2.TreangleCheck();
 
+        Treangle[] treangles = new Treangle[2];
+        treangles[0] = treangle1;
+        treangles[1] = treangle2;
 
-
-        ArrayList arrayList = new ArrayList();
-        arrayList.Add(treangle1);
-        arrayList.Add(treangle2);
-        Console.WriteLine(arrayList.ToString());
-        Console.WriteLine(arrayList);
-            
-            
-        //    treangleAreas = new ArrayList
-      
-        
-        
-        //{
-        //    { treangle1, treangle2 }
-        //};
-        
-        
-        
-        
-        //// Initialize random number generator.
-        //Random rnd = new Random();
-
-        //// Generate 10 temperatures between 0 and 100 randomly.
-        //for (int ctr = 1; ctr <= 10; ctr++)
-        //{
-        //    int degrees = rnd.Next(0, 100);
-        //    Temperature temp = new Temperature();
-        //    temp.Fahrenheit = degrees;
-        //    temperatures.Add(temp);
-        //}
+        Array.Sort(treangles);
+        Console.Write(treangles.ToString());
     }
 }
