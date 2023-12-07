@@ -1,0 +1,60 @@
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\Labs\Lab6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\Labs\Lab08\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\Labs\Lab08 — копия\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\Labs\Lab09\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
