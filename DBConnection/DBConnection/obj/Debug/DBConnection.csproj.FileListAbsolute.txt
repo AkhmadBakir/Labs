@@ -1,0 +1,10 @@
+E:\Labs\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+E:\Labs\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+E:\Labs\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+E:\Labs\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+E:\Labs\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+E:\Labs\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+E:\Labs\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+E:\Labs\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+E:\Labs\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+E:\Labs\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
