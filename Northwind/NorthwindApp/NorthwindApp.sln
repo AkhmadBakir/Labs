@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindApp", "NorthwindApp.csproj", "{9449300B-A923-4B05-91CA-0DB5BE56CAC9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{025C1A62-754B-4257-B910-4AE936F28EE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9449300B-A923-4B05-91CA-0DB5BE56CAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9449300B-A923-4B05-91CA-0DB5BE56CAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9449300B-A923-4B05-91CA-0DB5BE56CAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9449300B-A923-4B05-91CA-0DB5BE56CAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025C1A62-754B-4257-B910-4AE936F28EE6}.Debug|Any CPU.ActiveCfg = Debug
+		{025C1A62-754B-4257-B910-4AE936F28EE6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84E727F-85AD-4821-A353-43AF2F0B2E65}
+	EndGlobalSection
+EndGlobal

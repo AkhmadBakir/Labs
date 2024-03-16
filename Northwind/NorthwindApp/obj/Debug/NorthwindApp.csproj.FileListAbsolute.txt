@@ -1,0 +1,11 @@
+E:\Labs\Northwind\NorthwindApp\bin\Debug\NorthwindApp.exe.config
+E:\Labs\Northwind\NorthwindApp\bin\Debug\NorthwindApp.exe
+E:\Labs\Northwind\NorthwindApp\bin\Debug\NorthwindApp.pdb
+E:\Labs\Northwind\NorthwindApp\obj\Debug\NorthwindApp.csproj.AssemblyReference.cache
+E:\Labs\Northwind\NorthwindApp\obj\Debug\NorthwindApp.Welcome.resources
+E:\Labs\Northwind\NorthwindApp\obj\Debug\NorthwindApp.Properties.Resources.resources
+E:\Labs\Northwind\NorthwindApp\obj\Debug\NorthwindApp.csproj.GenerateResource.cache
+E:\Labs\Northwind\NorthwindApp\obj\Debug\NorthwindApp.csproj.CoreCompileInputs.cache
+E:\Labs\Northwind\NorthwindApp\obj\Debug\NorthwindApp.exe
+E:\Labs\Northwind\NorthwindApp\obj\Debug\NorthwindApp.pdb
+E:\Labs\Northwind\NorthwindApp\obj\Debug\NorthwindApp.Form2.resources
